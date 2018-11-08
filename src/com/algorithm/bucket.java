@@ -5,7 +5,7 @@ import java.util.Scanner;
 /******
  *author:hyb
  *date:2018/11/8  11:14
- *description:简化版桶排序
+ *description:简化版桶排序 0~1000
  */
 public class bucket {
     public static void main(String[] args) {
